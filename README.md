@@ -11,6 +11,8 @@ Using SSH or Telnet, the host is able to login remotely, adjust the volume level
 
 
 
-Below is a copy of the documentaion that made this possible:
+Below is a copy of the Extron Documentation used to find the correct hex commands:
+
+
 <img width="665" alt="Screenshot 2023-08-04 at 11 44 37 AM" src="https://github.com/PardosTechSamples/ExtronSetups/assets/121273196/94529588-fd56-4b88-8b63-c3db11b660ad">
 https://media.extron.com/public/download/files/userman/68-2231-01_B.pdf
